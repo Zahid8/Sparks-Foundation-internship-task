@@ -2,7 +2,7 @@
 ## _Prediction using Supervised ML_
 ### Submitted By: B Zahid Hussain
 ## **Linear Regression with Python Tensorflow and keras**
-In this, we will see howhe Python Tensorflow library for machine learning can be used to implement the given task 1.
+In this, we will see how the Python Tensorflow library for machine learning can be used to implement the given task 1.
 
 ### **Task details**
 In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables.
